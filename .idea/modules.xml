@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FsMicroServicesWithSpringBoot-spring3.iml" filepath="$PROJECT_DIR$/.idea/FsMicroServicesWithSpringBoot-spring3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FsMicroServicesWithSpringBoot-spring3/source/configserver/configserver.iml" filepath="$PROJECT_DIR$/FsMicroServicesWithSpringBoot-spring3/source/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FsMicroServicesWithSpringBoot-spring3/source/credito/credito.iml" filepath="$PROJECT_DIR$/FsMicroServicesWithSpringBoot-spring3/source/credito/credito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FsMicroServicesWithSpringBoot-spring3/source/debito/debito.iml" filepath="$PROJECT_DIR$/FsMicroServicesWithSpringBoot-spring3/source/debito/debito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FsMicroServicesWithSpringBoot-spring3/source/saldoextrato/saldoextrato.iml" filepath="$PROJECT_DIR$/FsMicroServicesWithSpringBoot-spring3/source/saldoextrato/saldoextrato.iml" />
+    </modules>
+  </component>
+</project>
